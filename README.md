@@ -1,1 +1,1 @@
-# myproj
+echo "welocome to hymad"
